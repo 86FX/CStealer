@@ -2,3 +2,4 @@ urllib3
 nuitka
 websocket-client
 wmi
+zstandard
