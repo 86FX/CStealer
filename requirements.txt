@@ -1,9 +1,4 @@
-requests
-pycryptodome
-pyinstaller
-customtkinter
-pycryptodome
-Crypto
-packaging
-tk
+urllib3
+nuitka
+websocket-client
 wmi
