@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> CStealer is currently under construction, star the repo to come back when it's done!
+
 > [!CAUTION]
 > You can only download our tools from [86FX/CStealer](https://github.com/86FX/CStealer). Any other websites/communities offering downloads to our tools are not to be trusted.
 
@@ -6,7 +9,7 @@
 <img/src="https://img.shields.io/github/last-commit/86FX/CStealer?color=%23FE2857&logoColor=%23FE2857"></div>
 
 ## 🔐 CStealer
-**CStealer is an elegant Python-based Red Team exfiltration toolkit.**
+**CStealer is an elegant Python-based Red Team exfiltration toolkit. [WIP]**
 
 ### 📜 Features
 ```
